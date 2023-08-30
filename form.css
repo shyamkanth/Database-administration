@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(232, 245, 174);
+}
+.h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.container{
+    width: 800px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+}
+.form-check{
+    display:inline-flex;
+    margin-right: 10px;
+}
+.form-check-input{
+    margin-right: 3px;
+}
+.terms{
+    font-size: 10px;
+}
